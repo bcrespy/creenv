@@ -8,6 +8,18 @@ The major ressource when apprehending creenv is to use the learning table. It co
 
 [The Creative Environment learning table](https://google.fr)
 
+### **Summary**
+
+1. Setting up your first project (à la fin : at this point you have 2 options: continue your lecture of dive into the code and learn by yourself)
+2. Overview (on explique la structure d'un projet avec creenv)
+3. CLI Command Line Interface (toutes les options possibles, avec des exemples didactiques, peut-être même des photos)
+4. Boilerplate in details (on explique npm, webpack)
+5. GUI Tools (ici on parle de tous les outils UI)
+6. Most useful modules (les modules super utiles, vus brièvement)
+7. La liste de tous les modules, avec leur doc respective
+8. Record / Capture your app (on explique bien comme il faut, en détails, comment record son app creenv)
+9. Serve to the web (comment build et uploader son projet)
+
 ## Quick tour presentation 
 
 The introduction video of creenv is also a good starting point if you have no idea about what creenv is. It covers some of its best features and explain why creenv was conceived and how it can be productive to start a creative project by using creenv. 
