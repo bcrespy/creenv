@@ -11,7 +11,7 @@ The major ressource when apprehending creenv is to use the learning table. It co
 ### **Summary**
 
 1. Setting up your first project (à la fin : at this point you have 2 options: continue your lecture of dive into the code and learn by yourself)
-2. Overview (on explique la structure d'un projet avec creenv)
+2. Overview (un tour rapide des fonctionnalités principales de creenv)
 3. CLI Command Line Interface (toutes les options possibles, avec des exemples didactiques, peut-être même des photos)
 4. Boilerplate in details (on explique npm, webpack)
 5. GUI Tools (ici on parle de tous les outils UI)
