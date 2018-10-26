@@ -5,11 +5,13 @@
 ## Summary 
 
 1. [**Setting up your first project**](http://google.com) - a step-by-step guide on how to set up your project with creenv 
-2. [**Overview**] 
-3. CLI Command Line Interface
-4. Boilerplate in details
-5. GUI Tools
-6. Most useful modules
-7. La liste de tous les modules, avec leur doc respective
-8. Record / Capture your app
-9. Serve to the web
+2. [**Overview**](http://google.com) - a quicktour of creenv, its functionnalities, an overview of what you can do
+3. [**CLI Command Line Interface**](http://google.com) - how to use the CLI depending on the project you want to set up 
+4. [**Boilerplate in details**](http://google.com) - everything you need to know so that you can work fluently with the boilerplate.
+5. [**GUI Tools**](http://google.com) - learn of to use the gui tools, such as stats, controls... etc
+6. [**Most useful modules**](http://google.com) - a list of the most useful modules and a brief description on what they are doing
+7. [**An exhaustive list of creenv modules**](http://google.com) - a list with a short description and a link to the doc
+8. [**Record / Capture your app**](http://google.com) - learn how to export your creation as a video or a png sequence
+9. [**Serve to the web**](http://google.com) - you want to publish your app online ? this was made for you
+
+*If you feel like explanations on a particular topic are missing, feel free to let me know by posting an issue on github :). I will gladly take a look at your idea*
