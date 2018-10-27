@@ -2,7 +2,7 @@
 
 > Welcome to the first part of the learning table. In this section you will learn how to install a creenv project on your machine. Let's dive in :) 
 >
-> **If you are already familiar with the Javascript ecosystem, [you can jump to part 6]()**
+> **If you are already familiar with the Javascript ecosystem, [you can jump to part 6](#summup-of-the-commands)**
 
 ## 1. Find a terminal
 
@@ -94,9 +94,11 @@ run the development server
 npm run start
 ```
 
+___
 
-
-
+|                                                              |                                                 |
+| ------------------------------------------------------------ | ----------------------------------------------: |
+| [**< Go back to summary**](https://github.com/bcrespy/creenv/blob/master/learning-table.md#summary) | [**Part2: creenv overview**](http://google.com) |
 
 
 
