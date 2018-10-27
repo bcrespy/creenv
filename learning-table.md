@@ -15,3 +15,11 @@
 9. [**Serve to the web**](http://google.com) - you want to publish your app online ? this was made for you
 
 *If you feel like explanations on a particular topic are missing, feel free to let me know by posting an issue on github :). I will gladly take a look at your idea*
+
+## Useful ressources 
+
+* [A Beginner’s Guide to npm — the Node Package Manager](https://www.sitepoint.com/beginners-guide-node-package-manager/)
+* [Webpack official doc](https://webpack.js.org/guides/getting-started/)
+* [JavaScript Transpilers: What They Are & Why We Need Them](https://scotch.io/tutorials/javascript-transpilers-what-they-are-why-we-need-them)
+
+*New and useful ressources are welcome, feel free to contribute to this section*
